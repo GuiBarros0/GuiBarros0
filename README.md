@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuiBarros0
+- 👋 Hi, I’m Guilherme [@GuiBarros0]
 I am a Brazillian student of Systems Analysis and Development, actually in third half. I try to be my best everyday and i love learn others technologies.
 - ## About me: <h3>
 - Age - 19 years old.
