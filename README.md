@@ -26,7 +26,3 @@ I like to teach and learn. I try to be my best everyday and i love learn others 
   ![Snake animation](https://github.com/GuiBarros0/GuiBarros0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<!---
-GuiBarros0/GuiBarros0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
