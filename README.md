@@ -4,7 +4,6 @@ I like to teach and learn. I try to be my best everyday and i love learn others 
 - ## About me: <h3>
 - Age - 21 years.
 - City - Presidente Prudente, São Paulo, Brazil.
-- Knowledges - Python, HTML, CSS, JavaScript (basic) and learning C#.
   
   <div align="center">
   <a href="https://github.com/GuiBarros0">
