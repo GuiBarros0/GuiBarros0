@@ -23,6 +23,6 @@ I like to teach and learn. I try to be my best everyday and i love learn others 
   <a href = "mailto:guisanches35@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-barros-43bb38218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/GuiBarros0/GuiBarros0/dist/github-contribution-grid-snake.svg)
- 
+    ![Snake animation](https://github.com/GuiBarros0/GuiBarros0/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
