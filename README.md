@@ -1,4 +1,5 @@
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h3 align = "center">I'm Guilherme, a University Student of systems analysis and development</h3>
 
 ![Snake animation](https://github.com/GuiBarros0/GuiBarros0/blob/output/github-contribution-grid-snake.svg)
 
@@ -12,22 +13,16 @@
   
 <h3 align ="center">Analytics ⚙️</h3>
   
-<div align="center">
-<a href="https://github.com/GuiBarros0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiBarros0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBarros0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   <p align="center">
   <img align="center"
       alt="Ester Costa Github stats"
       style="margin-bottom: 10px;"
-      height="165" src="https://github-readme-stats.vercel.app/api?username=alwspiderc&theme=ayu-mirage&show_icons=true&count_private=true" />
+      height="165" src="https://github-readme-stats.vercel.app/api?username=guiBarros0&theme=ayu-mirage&show_icons=true&count_private=true" />
   <img
     align="center"
     alt="Most used languages"
     style="margin-bottom: 10px;"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alwspiderc&layout=compact&langs_count=6&theme=ayu-mirage"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuiBarros0&layout=compact&langs_count=6&theme=ayu-mirage"
   />
 </p>
   
