@@ -1,5 +1,5 @@
 <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-<h3 align = "center">I'm Guilherme, a University Student of systems analysis and development</h3>
+<h2 align = "center">I'm Guilherme, a University Student of systems analysis and development</h2>
 
 ![Snake animation](https://github.com/GuiBarros0/GuiBarros0/blob/output/github-contribution-grid-snake.svg)
 
